@@ -56,7 +56,7 @@ Getting started is easy:
 
 
 percentage-calculator/
-- .phcode.json       # Project configuration file (optional)
+- phcode.json       # Project configuration file (optional)
 - index.html         # Main HTML page
 - styles.css         # Stylesheet for layout and design
 - script.js          # JavaScript logic for calculations

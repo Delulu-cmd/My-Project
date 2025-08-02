@@ -19,30 +19,37 @@ Getting started is easy:
    git clone https://github.com/your-username/percentage-calculator.git
 Open the Project in VS Code
 
-Install the Live Server Extension
+2. **Open the Project in VS Code**
+3. **Install the Live Server Extension**
 
-Go to the Extensions tab (Ctrl + Shift + X)
+- Go to the Extensions tab (Ctrl + Shift + X)
 
-Search for Live Server
+- Search for **Live Server**
 
-Click Install
+- Click **Install**
 
-Run the App
+4. **Run the App**
 
-In the file explorer, right-click on index.html
+- In the file explorer, right-click on index.html
 
-Select "Open with Live Server"
+- Select **"Open with Live Server"**
 
-The app will launch in your browser — ready to use!
+- The app will launch in your browser — ready to use!
 
-🛠️ Built With
-HTML – for the page structure
+---
 
-CSS – for styling and layout
+## 🛠️ Built With
 
-JavaScript – for functionality and interactivity
+- **HTML** – for the page structure
 
-📂 Project Structure
+- **CSS** – for styling and layout
+
+- **JavaScript** – for functionality and interactivity
+
+---
+
+## 📂 Project Structure
+
 graphql
 Copy
 Edit
@@ -51,22 +58,31 @@ percentage-calculator/
 ├── index.html         # Main HTML page
 ├── styles.css         # Stylesheet for layout and design
 ├── script.js          # JavaScript logic for calculations
-✅ Features
-Calculate percentages quickly and accurately
 
-Clean, responsive UI
+---
 
-No dependencies — just open and use
+## ✅ Features
 
-📄 License
+- Calculate percentages quickly and accurately
+  
+- Clean, responsive UI
+  
+- No dependencies — just open and use
+
+---
+
+## 📄 License
+
 This project is licensed under the MIT License — feel free to use, modify, and share!
 
-🙋‍♀️ Contributing
+---
+
+## 🙋‍♀️ Contributing
+
 Got an idea to improve this tool?
 Found a bug?
 Feel free to fork the repository and submit a pull request. Contributions are always welcome and appreciated!
 
-✨ Live Demo (optional)
-If you deploy it online (e.g., GitHub Pages, Vercel, or Netlify), you can add a live link here.
+---
 
 Thanks for checking out Percentage Calculator! 🙌

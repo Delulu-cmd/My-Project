@@ -24,20 +24,20 @@ Getting started is easy:
    
 3. **Install the Live Server Extension**
 
-- Go to the Extensions tab (Ctrl + Shift + X)
+   - Go to the Extensions tab (Ctrl + Shift + X)
 
-- Search for **Live Server**
+   - Search for **Live Server**
 
-- Click **Install**
+   - Click **Install**
   
 
 4. **Run the App**
 
-- In the file explorer, right-click on index.html
+   - In the file explorer, right-click on index.html
 
-- Select **"Open with Live Server"**
+   - Select **"Open with Live Server"**
 
-- The app will launch in your browser — ready to use!
+   - The app will launch in your browser — ready to use!
   
 
 ---
@@ -48,18 +48,18 @@ Getting started is easy:
 
 - **CSS**: Styling and Layout
 
-- **JavaScript**: Functionality and Interactivity
+- **JavaScript**: Functional and Interactive nature
 
 ---
 
 ## 📂 Project Structure
 
- ```bash
 percentage-calculator/
 ├── .phcode.json       # Project configuration file (optional)
 ├── index.html         # Main HTML page
 ├── styles.css         # Stylesheet for layout and design
 ├── script.js          # JavaScript logic for calculations
+
 
 ---
 

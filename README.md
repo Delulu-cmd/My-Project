@@ -54,6 +54,7 @@ Getting started is easy:
 
 ## 📂 Project Structure
 
+bash
 percentage-calculator/
 ├── .phcode.json       # Project configuration file (optional)
 ├── index.html         # Main HTML page
@@ -79,11 +80,10 @@ This project is licensed under the MIT License — feel free to use, modify, and
 
 ---
 
-## 🙋‍♀️ Contributing
+## 💌 Wanna Contribute?
 
-Got an idea to improve this tool?
-Found a bug?
-Feel free to fork the repository and submit a pull request. Contributions are always welcome and appreciated!
+Spotted a bug or have a cute idea? Fork it, fix it, and drop a PR.
+Let’s make this little tool even cuter, together. 💕
 
 ---
 

@@ -15,11 +15,13 @@ This is a lightweight web-based percentage calculator built using vanilla HTML, 
 Getting started is easy:
 
 1. **Clone the Repository**
+
    ```bash
    git clone https://github.com/your-username/percentage-calculator.git
-Open the Project in VS Code
+   
 
 2. **Open the Project in VS Code**
+   
 3. **Install the Live Server Extension**
 
 - Go to the Extensions tab (Ctrl + Shift + X)
@@ -27,6 +29,7 @@ Open the Project in VS Code
 - Search for **Live Server**
 
 - Click **Install**
+  
 
 4. **Run the App**
 
@@ -35,24 +38,23 @@ Open the Project in VS Code
 - Select **"Open with Live Server"**
 
 - The app will launch in your browser — ready to use!
+  
 
 ---
 
 ## 🛠️ Built With
 
-- **HTML** – for the page structure
+- **HTML**: Page Structure
 
-- **CSS** – for styling and layout
+- **CSS**: Styling and Layout
 
-- **JavaScript** – for functionality and interactivity
+- **JavaScript**: Functionality and Interactivity
 
 ---
 
 ## 📂 Project Structure
 
-graphql
-Copy
-Edit
+ ```bash
 percentage-calculator/
 ├── .phcode.json       # Project configuration file (optional)
 ├── index.html         # Main HTML page

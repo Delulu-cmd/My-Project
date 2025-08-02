@@ -44,11 +44,11 @@ Getting started is easy:
 
 ## 🛠️ Built With
 
-- **HTML**: Page Structure
+- **HTML**
 
-- **CSS**: Styling and Layout
+- **CSS**
 
-- **JavaScript**: Functional and Interactive nature
+- **JavaScript**
 
 ---
 
